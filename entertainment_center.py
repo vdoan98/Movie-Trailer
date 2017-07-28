@@ -1,5 +1,6 @@
-import media
-import fresh_tomatoes
+import media #Import file containing Class Movie 
+import fresh_tomatoes #Import file containing HTML and CSS
+                      #for webpage
 
 winter_soldier = media.Movie("Captain America: The Winter Soldier",
                              "Captain America encounters the"
